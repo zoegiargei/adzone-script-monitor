@@ -38,7 +38,7 @@ Este spike implementa una **primera capa de detección** que:
 ## Configuración Inicial
 
 1. git clone https://github.com/<org>/adzone-script-monitor.git
-2. cd adzone-change-guard
+2. cd adzone-script-monitor
 3. npm install
 
 
